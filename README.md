@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi there, I'm Suraj Kumar 👋
+🎓 B.Tech CSE student
+👨‍💻 Passionate about AI/ML & Flutter dev
+📚 Exploring Data Structures & Algorithms (C++)
+🤖 Interested in AI/ML 
+📫 How to reach me: LinkedIn or Email below
+💻 Tech Stack & Tools I Use
+🚀 Languages
+C C++ Python
 
-<!--
-**surajhere777/surajhere777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Mobile Development
+Flutter Dart SQLite Provider
 
-Here are some ideas to get you started:
+🌐 Backend & APIs
+Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗃️ Databases
+SQlite
+
+🧰 Tools & Version Control
+Git GitHub
+
+🧑‍💻 IDEs & Editors
+VS Code 
+
+📊 GitHub Stats
+Streak
+Suraj's Github Stats Suraj's Top Languages
+🏆 Achievements
+GitHub Contributions & Projects
+Personal Projects in Flutter & AI/ML
+DSA Practice & Competitive Programming
+📫 Connect with Me
+Email
+LinkedIn
+GitHub
+Instagram
+
