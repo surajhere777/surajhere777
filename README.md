@@ -1,38 +1,30 @@
-Hi there, I'm Suraj Kumar 👋
-🎓 B.Tech CSE student
-👨‍💻 Passionate about AI/ML & Flutter dev
-📚 Exploring Data Structures & Algorithms (C++)
-🤖 Interested in AI/ML 
-📫 How to reach me: LinkedIn or Email below
-💻 Tech Stack & Tools I Use
-🚀 Languages
-C C++ Python
+# Hi there, I'm Suraj Kumar 👋
 
-📱 Mobile Development
-Flutter Dart SQLite Provider
+- 🎓 B.Tech CSE student  
+- 🔥 Passionate about AI, Machine Learning & Flutter  
+- 📚 Exploring Data Structures & Algorithms (C++ & Python)  
+- 🤖 Interested in Backend Development & Blockchain  
+- 📫 How to reach me: [LinkedIn](your-linkedin-url) or Email below  
 
-🌐 Backend & APIs
-Firebase
+---
 
-🗃️ Databases
-SQlite
+## 💻 Tech Stack & Tools I Use  
 
-🧰 Tools & Version Control
-Git GitHub
+### 🚀 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🧑‍💻 IDEs & Editors
-VS Code 
+### 📱 Mobile Development  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
 
-📊 GitHub Stats
-Streak
-Suraj's Github Stats Suraj's Top Languages
-🏆 Achievements
-GitHub Contributions & Projects
-Personal Projects in Flutter & AI/ML
-DSA Practice & Competitive Programming
-📫 Connect with Me
-Email
-LinkedIn
-GitHub
-Instagram
+### 🌐 Backend & APIs  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
+---
